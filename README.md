@@ -13,3 +13,6 @@ Step by step instructions:
 1. Set Up your AWS Credentials
 2. Run npm install
 3. Run cdk deploy
+
+## State of the Project
+Currently you can already subscribe to a Calendar using https://cal.ffgti.org/v0/{region code} (e.g https://cal.ffgti.org/v0/GB) and your favourite Calendar Client. There are still a lot of features to come and some bugs to work out, especially around time zones for competitions. 
